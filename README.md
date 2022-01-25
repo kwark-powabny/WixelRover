@@ -10,4 +10,5 @@ The set consists of two Wixel modules. One is connected to a Windows computer vi
 
 <p align="center">
   <img src="photos/rover1.jpg" width="350" title="Rover">
+    <img src="photos/rover3.JPG" width="350" title="Rover">
 </p>
